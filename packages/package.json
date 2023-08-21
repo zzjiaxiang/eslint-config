@@ -1,0 +1,29 @@
+{
+  "name": "@zzjiaxiang/eslint-config",
+  "version": "1.0.0",
+  "description": "zzjiaxiang's ESLint config",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zzjiaxiang/eslint-config.git"
+  },
+  "keywords": [
+    "eslint-config",
+    "eslint"
+  ],
+  "author": "zzjiaxiang <zj.x9872@foxmail.com> (https://github.com/zzjiaxiang)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zzjiaxiang/eslint-config/issues"
+  },
+  "homepage": "https://github.com/zzjiaxiang/eslint-config#readme",
+  "peerDependencies": {
+    "eslint": "^8.47.0"
+  },
+  "dependencies": {
+    "eslint-define-config": "^1.23.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.47.0"
+  }
+}
