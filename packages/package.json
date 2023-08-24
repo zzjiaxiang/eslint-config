@@ -1,6 +1,6 @@
 {
   "name": "@zzjiaxiang/eslint-config",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "zzjiaxiang's ESLint config",
   "main": "index.js",
   "repository": {
