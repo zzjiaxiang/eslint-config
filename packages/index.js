@@ -37,7 +37,7 @@ module.exports = defineConfig({
     // js/ts
     "no-undef": "off",
     camelcase: ["error", { properties: "never" }],
-    "no-console": ["warn", { allow: ["error"] }],
+    "no-console": ["warn", { allow: ["error","warn"] }],
     "no-debugger": "warn",
     "no-constant-condition": ["error", { checkLoops: false }],
     "no-restricted-syntax": ["error", "LabeledStatement", "WithStatement"],
