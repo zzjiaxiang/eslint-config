@@ -161,6 +161,7 @@ module.exports = defineConfig({
       extends: [
         "plugin:import/typescript",
         "plugin:@typescript-eslint/recommended-type-checked",
+        'plugin:@typescript-eslint/stylistic-type-checked',
       ],
       plugins: ["@typescript-eslint"],
       // see (https://typescript-eslint.io/packages/parser#project)
