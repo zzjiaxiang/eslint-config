@@ -209,12 +209,7 @@ module.exports = defineConfig({
       // see (https://www.npmjs.com/package/eslint-plugin-markdown)
       files: ["**/*.md"],
       processor: "markdown/markdown",
-    },
-    {
-      // see (https://www.npmjs.com/package/eslint-plugin-jsonc)
-      files: ["*.json", "*.json5", "*.jsonc"],
-      parser: "jsonc-eslint-parser",
-    },
+    }
   ],
   parserOptions: {
     ecmaVersion: "latest",

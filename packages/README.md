@@ -1,7 +1,7 @@
 # @zzjiaxiang/eslint-config
 
 - Only support vue3.
-- Support JavaScript and TypeScript also json and markdown.
+- Support JavaScript and TypeScript also markdown.
 - ESLint analyzes code to find problems.
 - Prettier auto fix for formatting.
 
