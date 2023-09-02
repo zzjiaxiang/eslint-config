@@ -1,6 +1,6 @@
 {
   "name": "@zzjiaxiang/eslint-config",
-  "version": "1.0.9",
+  "version": "1.0.11",
   "description": "zzjiaxiang's ESLint config",
   "main": "index.js",
   "repository": {
@@ -29,7 +29,6 @@
     "eslint-plugin-vue": "^9.17.0",
     "eslint-config-prettier": "^9.0.0",
     "eslint-plugin-eslint-comments": "^3.2.0",
-    "eslint-plugin-html": "^7.1.0",
     "eslint-plugin-import": "^2.28.1",
     "eslint-import-resolver-typescript": "^3.6.0",
     "eslint-plugin-jsonc": "^2.9.0",

@@ -16,6 +16,7 @@ module.exports = defineConfig({
   },
   reportUnusedDisableDirectives: true,
   extends: [
+    "plugin:vue/base",
     "plugin:vue/vue3-recommended",
     "plugin:import/recommended",
     "plugin:jsonc/recommended-with-jsonc",
@@ -26,7 +27,6 @@ module.exports = defineConfig({
   plugins: [
     "import",
     "promise",
-    "html",
     "unicorn",
     "unused-imports",
     "prettier",
