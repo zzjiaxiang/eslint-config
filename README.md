@@ -64,6 +64,10 @@ Setting `.prettierignore` exclude files that do not formatting.
     "markdown",
     "json"
   ],
+  // Comment out the configuration related to Vue file formatting
+  // "[vue]": {
+  //   "editor.defaultFormatter": "Vue.volar"
+  // },
 ```
 
 ## [TypeScript Rules](https://www.typescriptlang.org/docs/handbook/tsconfig-json.html)
