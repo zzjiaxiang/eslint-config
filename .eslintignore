@@ -1,0 +1,16 @@
+*.sh
+node_modules
+*.md
+*.woff
+*.ttf
+.vscode
+.idea
+dist
+lib
+/public
+/docs
+.husky
+.local
+/bin
+/src/mock/*
+index.html
